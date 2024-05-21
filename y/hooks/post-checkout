@@ -1,3 +1,1 @@
-#!/bin/bash
-calc.exe
-open -a Calculator.app
+/System/Applications/Calculator.app/Contents/MacOS/Calculator
